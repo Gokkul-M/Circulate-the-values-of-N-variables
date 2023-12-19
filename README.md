@@ -31,7 +31,7 @@ def circulate():
 
 ## Output:
 ![Screenshot 2023-10-20 122315](https://github.com/Gokkul-M/Circulate-the-values-of-N-variables/assets/144870543/55de856d-1b96-47b6-9ffb-d51dc7c0d56f)
-![Screenshot 2023-10-20 122333](https://github.com/Gokkul-M/Circulate-the-values-of-N-variables/assets/144870543/a8bf4e66-65e7-4ce4-87e5-72e128a4fef3)
+![image](https://github.com/Gokkul-M/Circulate-the-values-of-N-variables/assets/144870543/7258183a-835e-4fac-9941-9f471d98a35b)
 
 ## Result:
 Thus the Circulation of the values of N variables are successfully executed
